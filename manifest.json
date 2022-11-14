@@ -1,0 +1,11 @@
+{
+  "name": "Click for a cackle",
+  "version": "1.0.0",
+  "description": "A simple extension to view a joke in your browser.",
+  "manifest_version": 3,
+  "author": "Robert Low",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Click for a cackle"
+  }
+}
